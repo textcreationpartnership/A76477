@@ -1,0 +1,533 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A body of divinity with fundamentall scriptures, drawn into a table: / by Robert Betts, preacher of the Gospel at Swanscombe in Kent.</title>
+            <author>Betts, Robert, d. 1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76477</idno>
+            <idno type="STC">Wing B2088</idno>
+            <idno type="STC">Thomason E1146_4</idno>
+            <idno type="STC">ESTC R210082</idno>
+            <idno type="EEBO-CITATION">99868913</idno>
+            <idno type="PROQUEST">99868913</idno>
+            <idno type="VID">170651</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76477)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170651)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 250:E1146[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A body of divinity with fundamentall scriptures, drawn into a table: / by Robert Betts, preacher of the Gospel at Swanscombe in Kent.</title>
+                  <author>Betts, Robert, d. 1656.</author>
+               </titleStmt>
+               <extent>[2], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes, for Io. Bellamie, and are to bee sold at his shop, at the three Golden Lions in Cornhill, neare the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Aprill 27."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Devotional use --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170651:1" rendition="simple:additions"/>
+            <p>A BODY of DIVINITY: WITH FUNDAMENTALL SCRIPTURES, Drawn into A TABLE: BY ROBERT BETTS, Preacher of the Goſpel at <hi>Swanſcombe</hi> in <hi>KENT.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes,</hi> for <hi>Io. Bellamie,</hi> and are to bee ſold at his ſhop, at the three Golden Lions in <hi>Cornhill,</hi> neare the Royall Exchange. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="outline">
+            <pb n="2-3" facs="tcp:170651:2"/>
+            <head>A BODY of DIVINITY WITH FUNDAMENTALL SCRIPTURES, Drawn into A TABLE.</head>
+            <p>The Sacred Scriptures are the Word of God, 2 <hi>Tim.</hi> 3. 16. Given by inſpiration from God, and reveale that <note n="*" place="margin">Joh. 17. 3. <hi>This is life eternall, that they may know thee the onely true God and Jeſus Chriſt.</hi>
+               </note> eternall life con<g ref="char:EOLhyphen"/>ſiſts in the ſaving knowledge
+<list>
+                  <item>1. Of God in his
+<list>
+                        <item>1. <hi>Beeing,</hi> That hee is <note n="(a)" place="margin">Joh. 4. 24. <hi>God is a ſpirit,</hi> that is, he hath no body as man hath, <hi>Luk.</hi> 24. 39.</note> a Spirit, having his <note n="(b)" place="margin">1 Tim. 1. 17. <hi>Eternall,</hi> that is, without beginning or ending.</note> eter<g ref="char:EOLhyphen"/>nall <note n="(c)" place="margin">Exod. 3. 14. <hi>I am that I am,</hi> that is, I have my beeing of my ſelf and of no other.</note> beeing of himſelf.</item>
+                        <item>2. <hi>Properties,</hi> That God is <note n="(d)" place="margin">Pſal. 147<g ref="char:punc">▪</g> 5. <hi>His underſtanding is infinite,</hi> that is, without limits. Jer. 23. 24. <hi>I fill heaven and earth,</hi> that is, I am in every place.</note> infinite in wiſdom, in <note n="(e)" place="margin">Iſa. 40. 26. <hi>Strong in power,</hi> that is, able to doe all things:</note> power, in <note n="(f)" place="margin">Pſal. 119. 68: <hi>Thou art good and doeſt good.</hi>
+                           </note> goodneſſe, in <note n="(g)" place="margin">Exod. 34. 6. <hi>The Lord God, mercifull and gracious, long ſuffering, &amp;c.</hi>
+                           </note> mercy, in <note n="(h)" place="margin">Deut. 32. 4. <hi>A God of truth, without iniquity, juſt and right is he,</hi> Pſal. 11. 7.</note> juſtice, in <note n="(i)" place="margin">Exod. 15. 11. <hi>Who is like thee glorious in holineſſe?</hi> Pſal. 145. 17. <hi>Holy in all his works.</hi>
+                           </note> holineſſe, in <note n="(k)" place="margin">1 Tim: 6. 15. <hi>Who is the bleſſed and onely potentate, the King of Kings, &amp;c.</hi>
+                           </note> bleſſedneſſe, in <note n="(l)" place="margin">Pſal. 8. 1. <hi>How excellent is thy Name!</hi> Deut. 28. 38. <hi>This glorious and fearefull name, &amp;c.</hi>
+                           </note> glory, and in <note n="(m)" place="margin">Job 11. 7. <hi>Canſt thou by ſearching finde out God?</hi> that is, the perfections of God cannot be found out.</note> all perfections.</item>
+                        <item>3. <hi>Perſons,</hi> 
+                           <note n="(n)" place="margin">1 Joh. 5. 7. <hi>There are three that beare record in heaven, the Father, the Word,</hi> that is, the Son, <hi>and the Holy Ghoſt, and theſe three are one,</hi> that is, one God.</note>
+                           <list>
+                              <item>The Father</item>
+                              <item>The Son</item>
+                              <item>The Holy Ghoſt</item>
+                           </list>
+                           <note n="(o)" place="margin">Deut. 6. 4. <hi>The Lord our God is one Lord.</hi>
+                           </note> One God.</item>
+                        <item>4. <hi>Works,</hi>
+                           <list>
+                              <item>The Decree of
+<list>
+                                    <item>
+                                       <hi>Election,</hi> 
+                                       <note n="(p)" place="margin">Epheſ. 1. 4, 5, 6. <hi>As he,</hi> that is, God, <hi>hath choſen or elected us in him,</hi> that is, Chriſt, &amp;c. Rom. 9. 23. <hi>Veſſels of mercy which he hath prepared unto Glory.</hi>
+                                       </note> which is the fore-ordaining ſome An<g ref="char:EOLhyphen"/>gels and men to eternall ſalvation through Jeſus Chriſt.</item>
+                                    <item>
+                                       <hi>Preterition,</hi> 
+                                       <note n="(q)" place="margin">Jude 4. <hi>Ordained to this condemnation.</hi> 1 Theſſ. 5. 9. <hi>God hath not appoin<g ref="char:EOLhyphen"/>ted us unto wrath,</hi> that is, as he hath done others, <hi>but to obtain ſalvation by our Lord Jeſus Chriſt.</hi>
+                                       </note> or reproba<g ref="char:EOLhyphen"/>tion, which is the leav<g ref="char:EOLhyphen"/>ing of the reſt in their ſins to their juſt condemnati<g ref="char:EOLhyphen"/>on, to the praiſe of his juſtice.</item>
+                                 </list>
+                              </item>
+                              <pb n="4-5" facs="tcp:170651:3"/>
+                              <item>The execution of his Decree, in
+<list>
+                                    <item>
+                                       <hi>Creation,</hi> 
+                                       <note n="(r)" place="margin">Gen. 1. Chap. Heb. 11. 3. <hi>The worlds were framed by the Word of God,</hi> that is, all creatures.</note> which is God his making of the whole world out of nothing, by his word, in ſix dayes.</item>
+                                    <item>
+                                       <hi>Providence,</hi> 
+                                       <note n="(ſ)" place="margin">Act. 17. 28. <hi>In him,</hi> that is, in God, <hi>we live, and move, and have our bee<g ref="char:EOLhyphen"/>ing.</hi>
+                                       </note> which is God his <note n="(t)" place="margin">Nehem. 9. 6. <hi>Thou preſerveſt them all,</hi> that is, all creatures.</note> preſerving, uphold<g ref="char:EOLhyphen"/>ing, <note n="(u)" place="margin">Prov. 16. 4. <hi>The Lord hath made all things for himſelf,</hi> that is, for his own glory.</note> diſpoſing of all the creatures in all their wayes.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>2 Of Jeſus Chriſt in
+<list>
+                        <item>1. His <note n="(a)" place="margin">Mat. 1. 23. <hi>Immanuel, God with us.</hi> Joh 1. 14. <hi>The Word was made fleſh,</hi> that is, the Son of God was made man. 1 Tim. 3 16. <hi>God manifeſt in the fleſh,</hi> that is, the Son of God.</note> 
+                           <hi>Perſon,</hi> that he is <hi>Immanuel,</hi> God and man in one perſon.</item>
+                        <item>2. His <hi>Office</hi> of Mediator, to <note n="(b)" place="margin">1 Tim. 2. 5. <hi>One Mediator between God and men, the Man Chriſt Jeſus.</hi> 2 Cor. 5. 19. <hi>God was in Chriſt reconciling the world to himſelf, &amp;c.</hi>
+                           </note> reconcile man to God, That he is my
+<list>
+                              <item>
+                                 <hi>Prophet,</hi> 
+                                 <note n="(c)" place="margin">Act. 3. 22. <hi>A Prophet ſhall the Lord raiſe unto you, even Chriſt.</hi> Joh. 1. 18 <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt declares God.</hi> Joh. 15. 15. <hi>I have made known unto you ſaith Chriſt to his Diſci<g ref="char:EOLhyphen"/>ples.</hi> Joh. 16. 15. <hi>The Spirit ſhall ſhew unto you.</hi> Joh 14. 26. <hi>He ſhall teach you.</hi>
+                                 </note> to teach mee the whole will of God by his Word and Spirit.</item>
+                              <item>
+                                 <hi>Prieſt,</hi> 
+                                 <note n="(d)" place="margin">Heb. 7. 26. <hi>Such an High Prieſt became us who is holy, harmleſſe.</hi>
+                                 </note>
+                                 <list>
+                                    <item>To <note n="(e)" place="margin">Heb. 10. 14. <hi>By one offering he hath perfected for ever them that are ſanctifi<g ref="char:EOLhyphen"/>ed,</hi> that is, made perfect expiation of ſin. Heb 9. 14. <hi>Who offered himſelf without ſpot to God.</hi> Col. 1. 20. <hi>Having made peace through the blood of his Croſſe.</hi>
+                                       </note> offer up himſelf a Sacri<g ref="char:EOLhyphen"/>fice unto God for ſin, by death on the Croſſe.</item>
+                                    <item>To <note n="(f)" place="margin">Heb. 9. 24. <hi>Chriſt is entred into heaven it ſelf, now to appear in the preſence of God for us.</hi> Heb. 7. 25 <hi>He ever liveth to make interceſſion, &amp;c.</hi>
+                                       </note> enter into heaven to ap<g ref="char:EOLhyphen"/>peare in the preſence of God, making interceſſion for all that come unto God by him.</item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <hi>King,</hi> 
+                                 <note n="(g)" place="margin">Rev. 17. 14. <hi>He is Lord of Lords and King of Kings,</hi> that is, Jeſus Chriſt.</note>
+                                 <list>
+                                    <item>To <note n="(h)" place="margin">Rev. 2. 27. <hi>He ſhall rule the nations with a rod of iron,</hi> Pſal. 2. 9. Of Chriſt. Pſal. 110. 2. <hi>Rule thou in the midſt of enemies.</hi>
+                                       </note> Reign over the world in his dominion of power, bridling and ſubduing his e<g ref="char:EOLhyphen"/>nemies.</item>
+                                    <item>To <note n="(i)" place="margin">Rev. 15. 3. <hi>Thou King of Saints,</hi> i. e. the Lord Jeſus is King of Saints.</note> Reign over his Saints, <note n="(k)" place="margin">1 Cor. 1. 2. <hi>Called to be Saints.</hi> Epheſ. 4. 12. <hi>For the gathering together of Saints.</hi>
+                                       </note> gathering them out of the world, <note n="(l)" place="margin">Pſal. 110. 3. <hi>Thy people freely willing in the day of thy power.</hi> Pſal. 45. 5. <hi>Thine arrows ſharp in the hearts of the Kings enemies,</hi> that is, thy words are piercing, con<g ref="char:EOLhyphen"/>vincing, converting.</note> ruling in their hearts by his Word and Spi<g ref="char:EOLhyphen"/>rit, <note n="(m)" place="margin">1 Pet. 1. 5. <hi>Who are kept by the power of God to ſalvation,</hi> that is, the Saints.</note> preſerving them to eternall life.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <pb n="6-[7]" facs="tcp:170651:4"/>
+                        <item>3. The two-fold eſtate wherein hee diſcharged the Office of Mediator <hi>viz.</hi>
+                           <list>
+                              <item>1 Of Humili<g ref="char:EOLhyphen"/>ation, in his
+<list>
+                                    <item>
+                                       <hi>Birth;</hi> Jeſus Chriſt the eter<g ref="char:EOLhyphen"/>nall Son of God, took up<g ref="char:EOLhyphen"/>on him the form of <note n="(n)" place="margin">Phil. 2. 7. <hi>He made himſelf of no reputation,</hi> that is, he deveſted himſelf o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                             <desc>•</desc>
+                                          </gap> glory and Majeſty, Mat. 1. 23. <hi>A Virgin ſhall bring forth a Son,</hi> Luk. 1. 35. O<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                             <desc>•</desc>
+                                          </gap> Mary.</note> a ſervant, was born of a Vir<g ref="char:EOLhyphen"/>gin.</item>
+                                    <item>
+                                       <hi>Life;</hi> Hee was a <note n="(o)" place="margin">Iſa. 53. 3. <hi>He is a man of ſorrows,</hi> Heb. 4. 15. <hi>Touched with feeling of our infir<g ref="char:EOLunhyphen"/>mities, yet without ſin.</hi> Joh. 4. 6. <hi>Jeſus being wearyed.</hi> Luk. 4. 2. <hi>tempted of Satan he hungred.</hi>
+                                       </note> man of ſorrows, bearing our in<g ref="char:EOLhyphen"/>firmities in his fleſh, as hunger, &amp;c. yet without ſin.</item>
+                                    <item>
+                                       <hi>Death;</hi> Hee was <note n="(p)" place="margin">Phil. 2 8 <hi>He became obedient unto death, even the death of the croſſe.</hi> Gal. 3. 13 <hi>Chriſt being made a curſe for us, redeemed us from the curſe.</hi> 1 Pet. 2. 24. <hi>Who his own ſelf bare our ſins in his own body on the tree,</hi> that is, Jeſus bare the guilt and puniſh<g ref="char:EOLhyphen"/>ment of our ſins in his own body on the croſſe.</note> obedi<g ref="char:EOLhyphen"/>ent unto death, even the moſt accurſed death of the croſſe, for our ſins.</item>
+                                 </list>
+                              </item>
+                              <item>2 Of Exaltation, in foure degrees.
+<list>
+                                    <item>1 In <note n="(q)" place="margin">Rom. 1. 4. <hi>Declared to be the Son of God with power, by the reſurrection from the dead.</hi> Act. 13. 30 <hi>God raiſed him from the dead.</hi>
+                                       </note> his glorious re<g ref="char:EOLhyphen"/>ſurrection from the dead.</item>
+                                    <item>2 In <note n="(r)" place="margin">Act. 1. 11. <hi>This Jeſus who is taken up from you into heaven,</hi> Act. 2. 34. David <hi>is not aſcended into Heaven as Chriſt by his own power.</hi>
+                                       </note> his Aſcenſion into the higheſt Hea<g ref="char:EOLhyphen"/>vens.</item>
+                                    <item>3 In <note n="(s)" place="margin">Act. 5. 31. <hi>Him hath God exalted with his right hand, to be a Prince and a Savi<g ref="char:EOLhyphen"/>our.</hi> Heb. 8. 1. <hi>Chriſt our High Prieſt ſet on the right hand of the Throne of the Ma<g ref="char:EOLhyphen"/>jeſty in the heavens.</hi>
+                                       </note> his ſitting at the right hand of his Fa<g ref="char:EOLhyphen"/>ther, in Majeſty and Glory.</item>
+                                    <item>4 In <note n="(t)" place="margin">Matth. 25 31. <hi>The Son of man ſhall come in his glory, and all the holy Angels with him.</hi> Act. 17. 3. <hi>A day in the which he will judge the world in righteouſneſſe.</hi> 2 Theſſ. 1. 8. <hi>The Lord Jeſus ſhall be revealed from heaven, taking vengeance on them that know not G<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                                <desc>•</desc>
+                                             </gap>d, and obey not the Goſpel of our Lord Jeſus Chriſt.</hi>
+                                       </note> his comming with power and great glory, to judge the world at the laſt day.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <pb n="8-[9]" facs="tcp:170651:5"/>
+                  <item>3 Of my own ſpiri<g ref="char:EOLhyphen"/>tuall eſtate how it ſtands be<g ref="char:EOLhyphen"/>fore God. <hi>Rev.</hi> 3. 17. <hi>Thou knowſt not that thou art wretched, &amp;c.</hi> in what ſtate thou ſtandeſt be<g ref="char:EOLhyphen"/>fore God.
+<list>
+                        <item>1 What I am in a ſtate of nature, <hi>viz.</hi> in a wo<g ref="char:EOLhyphen"/>full eſtate of ſin and mi<g ref="char:EOLhyphen"/>ſery. <hi>Rom.</hi> 5. 17. &amp; 21. <hi>As ſin hath reigned unto death.</hi>
+                           <list>
+                              <item>1 <hi>I am in</hi> Adam <hi>altogether loſt.</hi> Wherein note three things,
+<list>
+                                    <item>1 That <note n="(a)" place="margin">Gen. 1. 27. <hi>God created man in his own Image,</hi> that is, in knowledge, righte<g ref="char:EOLunhyphen"/>ouſneſſe and holineſſe, <hi>Epheſ.</hi> 4. 24.</note> 
+                                       <hi>Adam</hi> the firſt man was created of God in his own Image.</item>
+                                    <item>2 That <note n="(b)" place="margin">Gen. 3. 21 <hi>Haſt thou eaten of the tree whereof I commanded thee that thou ſhould<g ref="char:EOLunhyphen"/>eſt not eat.</hi>
+                                       </note> 
+                                       <hi>Adam</hi> by tranſ<g ref="char:EOLhyphen"/>greſſing the command of God in eating the forbid<g ref="char:EOLhyphen"/>den <note n="(c)" place="margin">Rom. 3 23. <hi>All have ſinned (in</hi> Adam) <hi>and fall ſhort of the glor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                                <desc>•</desc>
+                                             </gap> of God,</hi> that is, they doe not attain to that glorious Image of God which man ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                             <desc>•</desc>
+                                          </gap> at firſt.</note> fruit, was depri<g ref="char:EOLhyphen"/>ved of this glorious I<g ref="char:EOLhyphen"/>mage of God.</item>
+                                    <item>3 That by <note n="(d)" place="margin">Rom 5. 12. <hi>&amp;</hi> 19. <hi>By one man ſin entred into the world and death by ſin, ſo deat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                                <desc>•</desc>
+                                             </gap> paſſed upon all men. By</hi> Adam <hi>ſin,</hi> that is, the guilt of ſin, by imputation, and cor<g ref="char:EOLunhyphen"/>ruption by propagation, <hi>entred in<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                                <desc>•</desc>
+                                             </gap>o the world,</hi> that is, came on all his poſterity <hi>and death the wages of that ſin, ſeized on all his poſterity.</hi> Epheſ. 2. 3. <hi>By nature th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                                <desc>•</desc>
+                                             </gap> children of wrath, as we are in</hi> Adam <hi>the firſt that ſinned, we are all liable to the wrat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                                <desc>•</desc>
+                                             </gap> of God.</hi>
+                                       </note> 
+                                       <hi>Adam</hi> ſin entred into the world, &amp; death by ſin, ſo I ſinned in <hi>Adam,</hi> and am by nature a childe of wrath.</item>
+                                 </list>
+                              </item>
+                              <item>2 <hi>I am in ſin wholly dead.</hi> Wherein two things.
+<list>
+                                    <item>1 By <note n="(e)" place="margin">Rom. 5 12 <hi>In whom,</hi> i. e. in <hi>Adam, all have ſinned,</hi> ἐφ' ῷ. Gen. 6. 5. <hi>That every imagination of the thoughts of his heart was onely evill,</hi> i e. or the whole frame of th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                             <desc>•</desc>
+                                          </gap> ſoule, and all the purpoſes and intentions thereof.</note> reaſon of <hi>Adams</hi> fall from God, my whole man is inclined to <note n="(f)" place="margin">1 Joh. 3. 4. <hi>Who ever com<g ref="char:EOLunhyphen"/>mitteth ſin tranſgreſſeth the Law, for ſin is a breach of the Law of God,</hi> what ever thought, word, action is againſt the Law of God, is ſin. Rom. 3. 9. <hi>They are al<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                                <desc>•</desc>
+                                             </gap> under ſin,</hi> verſ. 12 <hi>There is none that doth good, no not one.</hi>
+                                       </note> all ſin againſt God.</item>
+                                    <item>2 I <note n="(g)" place="margin">Epheſ. 4. 18 <hi>Alienated from the life of God.</hi>
+                                       </note> am without all ſpi<g ref="char:EOLhyphen"/>rituall life, <note n="(h)" place="margin">Rom 3 19. <hi>All the world becomes guilty before God,</hi> that is, under Gods judgement.</note> a guilty perſon before God, liable <note n="(i)" place="margin">Ezech. 18. 4 <hi>The ſoule that ſinneth ſhall dye.</hi> Rom. 6. 23. <hi>The wages of ſin is death.</hi>
+                                       </note> to corporall and eter<g ref="char:EOLhyphen"/>nall death.</item>
+                                 </list>
+                              </item>
+                              <item>3 <hi>I am by the Law of God accurſed.</hi> Wherein 4 things,
+<list>
+                                    <item>1 The <note n="(k)" place="margin">Rom. 10. 5. <hi>The man that doth thoſe things,</hi> that is, that are commanded in the Law, <hi>ſhall live by them.</hi> Gal. 3. 12 that is, that doth exactly perform them.</note> Law of God re<g ref="char:EOLhyphen"/>quires exact obedience to every Command.</item>
+                                    <item>2 The <note n="(l)" place="margin">Lev. 18. 5. <hi>If a man doe, he ſhall live in them,</hi> or by them: This is a legall pro<g ref="char:EOLhyphen"/>miſe, and differs from the promiſes of the Goſpel, wherein life is promiſed to him that beleeves in Jeſus Chriſt. Rom. 2. 13. <hi>The doers are juſtifyed.</hi>
+                                       </note> Law of God pro<g ref="char:EOLhyphen"/>miſes life to the doer, <hi>i. e.</hi> eternall life to him that obeyes it.</item>
+                                    <pb n="10-11" facs="tcp:170651:6"/>
+                                    <item>3 The <note n="(m)" place="margin">Gal. 3. 20. <hi>Curſed is every one that continues not in all things that are written in the book of the Law to doe them.</hi> Deut. 27. 26. <hi>Curſed is he that eſtabliſheth not the words of this Law to doe them.</hi>
+                                       </note> Law threatens death, and the curſe to the tranſgreſſour.</item>
+                                    <item>4 Every <note n="(n)" place="margin">Rom. 3. 19. <hi>What things the Law ſaith, it ſaith to them who are under the Law.</hi> Rom. 7. 1. <hi>The Law hath dominion over a man that is under it.</hi> 1 Tim. 1. 9. <hi>The Law is not made for a righteous man,</hi> that is, in its exacting and condemning power, <hi>but for the lawleſſe.</hi>
+                                       </note> man is under the exacting power of the Law, and under the curſe thereof, till hee bee <note n="(o)" place="margin">Rom 6. 14. <hi>Yee are not under the Law,</hi> that is, as it is a covenant of works, <hi>but under Grace,</hi> that is, under the covenant of Grace.</note> born again, and in that eſtate am I by nature as well as others.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>2 What I am being brought in<g ref="char:EOLhyphen"/>to the eſtate of Grace, under the Covenant of Grace, <hi>Rom.</hi> 6. 14. &amp; no more under
+<list>
+                              <item>The Law</item>
+                              <item>Sin</item>
+                              <item>Wrath.</item>
+                           </list> 
+                           <hi>Gal.</hi> 5. 16. <hi>Yee are not under the Law.</hi> Rom. 5. 21. <hi>So might Grace reign through righteouſneſſe unto eternall life by Jeſus Chriſt.</hi>
+                           <list>
+                              <item>1. In reſpect of <note n="(p)" place="margin">Epheſ. 1. 7. <hi>In whom wee have redemption through his blood,</hi> that is, in Jeſus Chriſt.</note> redemption, or the price of redemption payed. <hi>I am in and through Jeſus Chriſt re<g ref="char:EOLhyphen"/>deemed.</hi> Wherein two things
+<list>
+                                    <item>1 That <note n="(q)" place="margin">Epheſ. 2. 2. <hi>According to the Prince of the power of the Aire,</hi> that is, Satan the prince of darkneſſe, <hi>in the luſts of our fleſh.</hi> 2 Tim. 2. 26. <hi>Who are taken captive by him at his will,</hi> that is, by Satan.</note> I was by nature in bondage to ſin and Satan, under their power at their commands.</item>
+                                    <item>2 I am <note n="(r)" place="margin">1 Pet. 1. 19. <hi>Yee were redeemed with the precious blood of Chriſt.</hi> 1 Tim. 2. 6. <hi>Who gave himſelf a ranſome for all,</hi> that is, a ſufficient price of redemption for all. Matth. 20. 28. <hi>The Son of man came to give his life a ranſome for many.</hi>
+                                       </note> redeemed from this wofull bondage by the pre<g ref="char:EOLhyphen"/>cious blood of Jeſus Chriſt, given to bee a ranſome for mee.</item>
+                                 </list>
+                              </item>
+                              <item>2 In reſpect <note n="(s)" place="margin">1 Cor. 12 13. <hi>By one Spirit,</hi> that is, the Spirit of Chriſt, <hi>are all beleevers bap<g ref="char:EOLhyphen"/>tized into one body,</hi> ingraffed into Chriſt.</note> of the application of this redemption by the holy Spirit.
+<p>
+                                    <hi>I am</hi> 
+                                    <note n="(t)" place="margin">Rom. 8. 30. <hi>Them he alſo called,</hi> that is, God called them effectually unto Chriſt. 1 Cor. 1. 9 <hi>By whom ye were called unto the fellowſhip of his Son Jeſus Chriſt.</hi> 2 Tim. 1 9. <hi>Who hath called us with an holy calling, not according to our works.</hi>
+                                    </note> 
+                                    <hi>effectually called unto Jeſus Chriſt by the Spirit of Chriſt, through the Goſpel, that I may bee united to him and have fellowſhip with him.</hi>
+                                 </p>
+                                 <list>
+                                    <item>In effectuall Calling, there is
+<list>
+                                          <item>1 The <note n="(u)" place="margin">1 Cor. 1. 24. <hi>Wee preach Chriſt crucifyed, the power of God, and the wiſdom of God.</hi>
+                                             </note> free offer of Chriſt.</item>
+                                          <item>2 The <note n="(w)" place="margin">Joh 1. 12. <hi>As many as received him, to them gave hee the priviledge to bee the Sons of God.</hi> Joh. 6. 45 <hi>Every man that hath heard and learned of the Father, commeth unto me.</hi>
+                                             </note> receiving or laying hold on Chriſt by Faith.</item>
+                                       </list>
+                                    </item>
+                                    <pb n="12-13" facs="tcp:170651:7"/>
+                                    <item>In Faith note the
+<list>
+                                          <item>1 Definition, Faith is that whereby a poor <note n="(x)" place="margin">Luk. 19. 10. <hi>The ſon of man,</hi> that is, Jeſus Chriſt, <hi>came to ſeek and to ſave that which was loſt.</hi>
+                                             </note> loſt ſinner, <note n="(y)" place="margin">Col. 2. 6. <hi>As ye have received Chriſt Ieſus the Lord.</hi>
+                                             </note> receives Jeſus Chriſt, as <note n="(z)" place="margin">Joh. 6 40. <hi>This is the Fathers will, that every one who ſeeth the Son and beleeves on him.</hi> Act. 4. 12. <hi>Neither is there ſalvation in any other, no Saviour beſides him.</hi>
+                                             </note> God the Fa<g ref="char:EOLhyphen"/>ther offers him in the Goſpel, <note n="(a)" place="margin">Joh. 6. 36. <hi>He that commeth to me ſhall never hunger.</hi>
+                                             </note> comes to him for all good, and <note n="(b)" place="margin">Epheſ. 1. 13. <hi>In whom ye alſo truſted,</hi> or reſted and relyed; <hi>after ye heard the word of truth.</hi>
+                                             </note> reſts wholly upon him.</item>
+                                          <item>2 The Ground of Faith is The free <note n="(c)" place="margin">Heb. 11. 1. <hi>Faith is the evidence of things not ſeen,</hi> by ſenſe, yet ſeen in the promiſe.</note> promiſe of God, made in <note n="(d)" place="margin">2 Cor. 1. 20. <hi>All the promiſes of God in Chriſt are yea and Amen,</hi> that is, moſt ſtable and ſure.</note> Chriſt, <note n="(e)" place="margin">Act. 10. 45. <hi>Who ever beleeves on him ſhall receive re<g ref="char:EOLhyphen"/>miſſion of ſins.</hi>
+                                             </note> concern<g ref="char:EOLhyphen"/>ing the pardon of ſins, <note n="(f)" place="margin">1 Cor. 1. 30. <hi>Chriſt is made of God, Wiſdom, Righteouſneſſe, Sanctification, Redemption.</hi>
+                                             </note> righ<g ref="char:EOLhyphen"/>teouſneſſe, holineſſe, redemption, <note n="(g)" place="margin">1 Cor. 3 22 23. <hi>All are yours,</hi> that is, Miniſters, priviledges, the world, <hi>things preſent, things to come, and ye are Chriſts.</hi>
+                                             </note> all ſpirituall, temporall, eter<g ref="char:EOLhyphen"/>nall good.</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>3 In reſpect of the benefits which follow upon the ſoules union with Jeſus Chriſt.
+<list>
+                                    <item>
+                                       <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1 <hi>I am by Faith in Jeſus Chriſt ju<g ref="char:EOLhyphen"/>ſtified.</hi> Juſtification is a gracious act of <note n="(h)" place="margin">Rom. 8. 33, 34. <hi>It is God that juſtifyeth, who is he that condemneth?</hi> Rom. 5. 1 <hi>It is Chriſt that dyed, yea rather that is riſen again, &amp;c.</hi>
+                                       </note> God, whereby hee <note n="(i)" place="margin">2 Cor. 5. 19, 20. <hi>God was in Chriſt reconciling the world unto himſelf, not imputing their treſpaſſes unto them,</hi> that is, not laying them to their charge, but charging Chriſt with them. Ver. 21. <hi>For hee made him ſin for us, that wee might bee made the righteouſneſſe of God in him,</hi> that is, God laid upon Chriſt the ſins of the beleever.</note> impu<g ref="char:EOLhyphen"/>ting the ſinnes of a beleever to Chriſt, and Chriſts righteouſ<g ref="char:EOLhyphen"/>neſſe unto him, he freely <note n="(k)" place="margin">Iſa. 53. 6. <hi>And puts Ieſus Chriſts righteouſneſſe upon him.</hi> Phil. 3. 9. <hi>Not having mine own righteouſneſſe but the righteouſneſſe which is of God by faith, that I might be found in him.</hi>
+                                       </note> ac<g ref="char:EOLhyphen"/>quits him of the guilt and pu<g ref="char:EOLhyphen"/>niſhment of his ſinnes, and ac<g ref="char:EOLhyphen"/>counts him perfectly juſt in his ſight.
+<p>In this are 4 things
+<list>
+                                             <item>1 I have <note n="(l)" place="margin">Pſal. 143. 2. <hi>In thy ſight ſhall no man living bee juſtifyed.</hi> Job 9. 2. <hi>How ſhould man be juſt before God?</hi>
+                                                </note> no righteouſneſſe of my own to appear before God with.</item>
+                                             <item>2 I ſtand <note n="(m)" place="margin">Rom. 3. 22. <hi>The righteouſneſſe of God is by faith of Ieſus Chriſt unto all, and upon all that doe beleeve,</hi> that is, the righteouſneſſe whereby I ſtand perfectly righte<g ref="char:EOLhyphen"/>ous before God, is mine through Faith.</note> righteous before God, through the righte<g ref="char:EOLhyphen"/>ouſneſſe of Jeſus Chriſt im<g ref="char:EOLhyphen"/>puted to mee.</item>
+                                             <pb n="14-15" facs="tcp:170651:8"/>
+                                             <item>3 I <note n="(n)" place="margin">Rom. 1. 17. <hi>In the Goſpel is the righteouſneſſe of God revealed from faith to fai<gap reason="illegible" resp="#MURP" extent="2 letters">
+                                                         <desc>••</desc>
+                                                      </gap> the juſt ſhall live by faith,</hi> that is, Faith is the inſtrument by which I apprehen<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                                      <desc>•</desc>
+                                                   </gap> the righteouſneſſe of Chriſt to be mine. Gal. 2. 20. <hi>The life I now live, I live <gap reason="illegible" resp="#MURP" extent="2 letters">
+                                                         <desc>••</desc>
+                                                      </gap> faith in the Son of God,</hi> that is, by that faith which lookes up to Jeſus Chriſt th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                                      <desc>•</desc>
+                                                   </gap> Son of God.</note> apprehend this righte<g ref="char:EOLhyphen"/>ouſneſſe of Jeſus Chriſt, and receive it to be mine own by Faith.</item>
+                                             <item>4 This <note n="(o)" place="margin">1 Joh. 5. 12. <hi>He that hath the Son of God Ieſus Chriſt, hath life.</hi> Epheſ. 2 8 <hi>By grace are ye ſaved through Faith, not of your ſelves, it is the gift of God.</hi>
+                                                </note> faith whereby I re<g ref="char:EOLhyphen"/>ceive Chriſt into my heart, and cloſe with him as my Sa<g ref="char:EOLhyphen"/>viour, is wrought in mee by the Holy Ghoſt.</item>
+                                          </list>
+                                       </p>
+                                    </item>
+                                    <item>2 <hi>My Faith in Jeſus Chriſt is ſtrength<g ref="char:EOLhyphen"/>ned,</hi>
+                                       <list>
+                                          <item>1 Through the <note n="(p)" place="margin">1 Cor. 15. 10. <hi>By the grace of God I am that I am.</hi> Phil. 4. 13. <hi>I can doe a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                                                      <desc>••</desc>
+                                                   </gap> things through Chriſt who ſtrengthens me.</hi>
+                                             </note> grace of Chriſt inabling mee to <note n="(q)" place="margin">Iſa. 55. 1, 2, 3. <hi>Ho, every one that thirſt<g ref="char:EOLunhyphen"/>eth come to the waters,</hi> that is, the promiſes of the Goſpel, <hi>hearken diligently unt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                                      <desc>•</desc>
+                                                   </gap> me, and eat that which is good, &amp;c.</hi> 3 <hi>Come unto mee,</hi> (ſaith Chriſt) <hi>heare, and you<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                                      <desc>•</desc>
+                                                   </gap> ſoule ſhall live.</hi>
+                                             </note> ap<g ref="char:EOLhyphen"/>ply the promiſes of the Cove<g ref="char:EOLhyphen"/>nant of Grace to <note n="(r)" place="margin">Gal. 3. 14. <hi>&amp;</hi> 22. <hi>Wee might receive the promiſe of the Spiri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                                      <desc>•</desc>
+                                                   </gap> through faith.</hi>
+                                             </note> receive all from Jeſus Chriſt in the free promiſe.</item>
+                                          <item>2 Through Chriſt inabling mee to make <note n="(s)" place="margin">Rom 4. 11. <hi>Hee,</hi> that is, Abraham, <hi>received the ſigne of circumciſion, a ſeale of the righteouſneſſe of the faith which he had being yet uncircumciſed, &amp;c.</hi>
+                                             </note> right uſe of the ſeales of the Covenant of Grace, Which are
+<list>
+                                                <item>1 <hi>Baptiſme,</hi> 
+                                                   <note n="(t)" place="margin">Heb. 6. 1. <hi>The Doctrine of Baptiſmes,</hi> i. e. the third principle following after Repentance and Faith. Tit. 3 5. <hi>By the waſhing of regeneration,</hi> that is, by the holy Ghoſt purging the ſoule from guilt, and defilement of ſin, in the new birth, <hi>and re<g ref="char:EOLhyphen"/>newing it after the Image of God,</hi> all ſignified in Baptiſme. 1 Pet. 3. 20. <hi>Baptiſme doth now ſave us, not the externall waſhing with water, but the internall Baptiſme of the Spirit.</hi>
+                                                   </note> wherein by the waſhing the body with water, is ſealed to the Beleever his new birth, his ingraffing into Chriſt, his entrance into the Covenant of grace.
+<p>They <note n="(u)" place="margin">Gen. 17. 7. <hi>To be a God to thee and to thy ſeed after thee,</hi> that is, to thy chil<g ref="char:EOLhyphen"/>dren. Act. 2. 38, 39. <hi>Repent and be Baptized, &amp;c. For the promiſe is to you and to your children.</hi>
+                                                      </note> are to receive this ſeale who are in Cove<g ref="char:EOLhyphen"/>nant with God, as thoſe that are converted to the faith of Chriſt, and their children are.</p>
+                                                </item>
+                                                <pb n="16-17" facs="tcp:170651:9"/>
+                                                <item>2 The <note n="(w)" place="margin">1 Cor. 11. 23, 24, 25. <hi>Take, eate, this is my body which is broken for you: This cup is the New Teſtament in my blood<g ref="char:punc">▪</g> this doe in remembrance of me.</hi> Mat. 26. 26, 27, 28. 1 Cor. 10. 16. <hi>The bread which we break, is it not the communion of the body of Chriſt, &amp;c.</hi> Joh. 6. 51. <hi>If any man eat of this bread hee ſhall live for ever.</hi>
+                                                   </note> 
+                                                   <hi>Lords Supper,</hi> wherein by the receiving of Bread and Wine is ſignifi<g ref="char:EOLhyphen"/>ed, ſealed, and exhibited to the Belee<g ref="char:EOLhyphen"/>ver, the <note n="(x)" place="margin">Joh. 6. 56. <hi>He that eateth my fleſh, dwelleth in mee and I in him.</hi>
+                                                   </note> body and blood of Chriſt to bee his ſpirituall nouriſhment, for his growth in Chriſt
+<p>They <note n="(y)" place="margin">1 Cor. 11. 23. <hi>Let a man examine himſelf, and ſo let him eat of that bread</hi> in the Lords Supper.</note> are to partake of this ſeale who are worthy, <hi>i. e.</hi> fitly prepared and doe examine themſelves.</p>
+                                                </item>
+                                             </list>
+                                          </item>
+                                          <item>3 By the <note n="(a)" place="margin">Jude 20. <hi>Praying in the holy Ghoſt, by the help and aſſiſtance of the holy Ghoſt.</hi>
+                                             </note> prayer of Faith.
+<p>
+                                                <hi>Prayer</hi> is the <note n="(b)" place="margin">Pſal. 25. 1. <hi>I lift up my ſoule,</hi> that is, my deſires, <hi>unto thee.</hi>
+                                                </note> lifting up the deſires of the renewed heart <note n="(c)" place="margin">Phil. 4. 6. <hi>In every thing, by prayer let your requeſt be made known to God.</hi>
+                                                </note> unto God for all good things, <note n="(d)" place="margin">1 Joh. 5 14. <hi>If we ask any thing according to his will he heareth us.</hi>
+                                                </note> according to his will, <note n="(e)" place="margin">Joh. 16. 23. <hi>Whatſoever ye ſhal<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                                         <desc>•</desc>
+                                                      </gap> ask the Father in my name, he will give it you.</hi> Joh. 14 13. <hi>In my name,</hi> that is, in and through the mediation of Jeſus Chriſt.</note> in the name of Jeſus Chriſt, <note n="(f)" place="margin">Rom. 8 26. <hi>The Spirit it ſelf makes interceſſion for us with groanings that cannot be uttered.</hi> Jude 20</note> by the help of the Spirit of Grace, <note n="(g)" place="margin">Mark. 11. 24. <hi>What things ye deſire, when ye pray, beleeve that ye ſhall receive them, and ye ſhall have them.</hi> Luk. 11. 2. <hi>Jeſus Chriſt taught his diſciples to pray, ſaying, Our Father, &amp;c.</hi>
+                                                </note> with confidence to bee heard.</p>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>
+                                       <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2 <!-- recte 3 --> <hi>I am</hi> 
+                                       <note n="(h)" place="margin">2 Theſſ. 2. 13. <hi>Through ſanctification of the ſpirit, and beleife of the Truth.</hi>
+                                       </note> 
+                                       <hi>through the Spirit of Chriſt ſanctified.</hi>
+                                       <p>Sanctification is the <note n="(i)" place="margin">Joh. 15. 5. <hi>He that abideth in me and I in him, the ſame brings forth much fruit.</hi>
+                                          </note> work of Chriſt <note n="(k)" place="margin">Col. 3. 10. <hi>Put on the new man which is renewed in knowledge</hi> Epheſ. 4. 23, 24. <hi>The new man which after God is created in righteouſneſſe and holineſſe,</hi>
+                                          </note> re<g ref="char:EOLhyphen"/>newing the whole man unto holineſſe, and righ<g ref="char:EOLhyphen"/>teouſneſſe by his holy Spirit, that <note n="(l)" place="margin">Phil. 1. 11. <hi>Filled with the fruits of righteouſneſſe, which are by Jeſus Chriſt, unto the glory and praiſe of God.</hi>
+                                          </note> I may bring forth fruit unto God.</p>
+                                       <p>In this are foure things,</p>
+                                       <list>
+                                          <item>1 That I am <note n="(m)" place="margin">Epheſ. 4. 22 <hi>The old man is corrupt according to the deceitfull luſts.</hi> Tit. 1. 15 <hi>
+                                                   <g ref="char:V">Ʋ</g>nto them that are defiled nothing is pure, but even their minde and conſcience is de<g ref="char:EOLhyphen"/>filed.</hi>
+                                             </note> by nature altogether im<g ref="char:EOLhyphen"/>pure, having my minde and conſcience de<g ref="char:EOLhyphen"/>filed with ſin.</item>
+                                          <item>2 I am <note n="(n)" place="margin">Joh. 3. 5. <hi>Except a man be born of Water, and of the holy Spirit, he cannot enter into the Kingdome of God.</hi> Rom. 12 2 <hi>Be ye transformed by the renewing of your minde.</hi>
+                                             </note> through the Spirit of Chriſt re<g ref="char:EOLhyphen"/>newed in the ſpirit of my minde to righ<g ref="char:EOLhyphen"/>teouſneſſe and holineſſe.</item>
+                                          <item>3 There <note n="(o)" place="margin">Rom. 6. 3 <hi>We who were baptized into Jeſus Chriſt, were baptized into his death.</hi> &amp; 6 6. <hi>Our old man,</hi> that is, our corrupt nature, <hi>is crucified with Chriſt.</hi> Gal. 2. 20. <hi>I am crucified with Chriſt.</hi>
+                                             </note> is wrought in my heart by the holy Spirit,
+<list>
+                                                <item>1 A dying unto ſin, by the death of Jeſus Chriſt.</item>
+                                                <item>2 A <note n="(p)" place="margin">Rom. 6. 4. <hi>As Chriſt was raiſed up from the dead, ſo we alſo ſhould walk in newneſſe of life.</hi> Col. 3. 1. <hi>Ye are riſen with Chriſt.</hi> Rom. 8. 11. <hi>He that raiſed up Chriſt from the dead, ſhall alſo quicken your mortall bodies, &amp;c.</hi>
+                                                   </note> riſing unto newneſſe of life, by the reſurrection of Jeſus Chriſt.</item>
+                                             </list>
+                                          </item>
+                                          <pb n="18-19" facs="tcp:170651:10"/>
+                                          <item>4 The fruits of ſanctifying grace are theſe two,
+<list>
+                                                <item>1 Repentance, <note n="(q)" place="margin">2 Cor. 7. 10, 11. <hi>The ſorrow according to God doth work a change in the minde unto ſalvation.</hi>
+                                                   </note> which is that where<g ref="char:EOLhyphen"/>by <note n="(r)" place="margin">Jer. 31. 18, 19. <hi>After I was turned I repented, after I was in<g ref="char:EOLhyphen"/>ſtructed I ſmote on my thigh, I was aſhamed, &amp;c.</hi>
+                                                   </note> a renewed ſoule <note n="(s)" place="margin">Zach. 12. 10. <hi>They ſhall look up<g ref="char:EOLhyphen"/>on me</hi> (ſaith the Lord Jeſus) <hi>whom they,</hi> that is, the Jews, <hi>have pierced, and they ſhall mourn for him,</hi> that is, for their ſin againſt Chriſt.</note> from the ſenſe of Gods free love in Jeſus Chriſt to<g ref="char:EOLhyphen"/>wards him, mournes for his ſins, and <note n="(t)" place="margin">Act. 3. 19. <hi>Repent and be converted unto God,</hi> Ezek. 33. 11, <hi>Turn ye from your evill wayes,</hi> Iſa. 55. 7. <hi>Let the wicked forſake his way, and the man given to iniquity, his thoughts, and let him return unto the Lord.</hi>
+                                                   </note> turns from all his fins unto God.</item>
+                                                <item>2 New obedience, is that whereby <note n="(u)" place="margin">Joh. 14. 21. <hi>He that keeps my commandements,</hi> ſaith Chriſt, <hi>loves mee.</hi> Joh. 15. 14. <hi>Ye are my friends, if yee doe whatſoever I command you.</hi>
+                                                   </note> a renewed ſoule out of love to Jeſus Chriſt is <note n="(w)" place="margin">2 Cor. 5. 9. <hi>Wee indevour that we may be accepted of God.</hi>
+                                                   </note> earneſtly deſirous to pleaſe God in all things <note n="(x)" place="margin">Epheſ. 5. 15. <hi>See that yee walk circumſpectly, according to Rule.</hi> Rom. 12. 3. <hi>Proving what is that good, that ac<g ref="char:EOLhyphen"/>ceptable, that perfect will of God,</hi> that is, the will of God revealed in the ten Com<g ref="char:EOLhyphen"/>mandements, <hi>Exod</hi> 20.</note> alwayes, in doing what he commands, in avoiding what he for<g ref="char:EOLhyphen"/>bids in the <note n="(y)" place="margin">Col. 3. 17. <hi>What ever ye doe, doe all in the name of the Lord Jeſus,</hi> in the ſtrength of Jeſus Chriſt,</note> name of Jeſus Chriſt to <note n="(z)" place="margin">1 Cor. 10. 31. <hi>What ever yee doe, doe all to the glory of God.</hi>
+                                                   </note> the glory of God.</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>
+                                       <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3 <!-- recte 4 --> <hi>I am</hi> 
+                                       <note n="(a)" place="margin">Act. 15. 11. <hi>Through the grace of the Lord Jeſus Chriſt wee ſhall be ſaved.</hi> Tit. 3. 7. <hi>Being juſtified by his grace we ſhould be made heires according to the hope of eter<g ref="char:EOLhyphen"/>nall life.</hi>
+                                       </note> 
+                                       <hi>through the grace of the Lord Jeſus Chriſt, an heire of Glory.</hi>
+                                       <p>Glory <note n="(b)" place="margin">Rom. 5 2. <hi>We rejoyce under hope of the glory of God,</hi> that is, under the certain hope we have of eternall life to bee given us of God.</note> is that glorious and happy eſtate of a Beleever, which hee in part injoyes here in ſweet <note n="(c)" place="margin">1 Joh. 1. 3. <hi>Our fellowſhip is with the Father, and with his Son Jeſus Chriſt:</hi> by vertue of his union with Chriſt he is one with the Father, <hi>Joh</hi> 17. 22 23.</note> communion with Chriſt, but more fully here<g ref="char:EOLhyphen"/>after, in the full enjoying of God and <note n="(d)" place="margin">1 Joh. 3. 2. <hi>When he ſhall appear,</hi> that is, Jeſus Chriſt, <hi>we ſhall be like him, and we ſhall ſee him as he is,</hi> that is, Chriſt in his glory.</note> Chriſt in the Kingdom of Heaven.</p>
+                                       <p>The glorious and happy eſtate of a Beleever, in
+<list>
+                                             <item>1 This life, conſiſts
+<list>
+                                                   <item>1 In his <note n="(e)" place="margin">Joh. 14. 23. <hi>If a man love me and keep my words, my Father will love him, and we will come unto him, and make our abode with him.</hi> 2 Cor. 6. 16. <hi>I will dwell in them and walk in them,</hi> as in my Temple, <hi>I will be their God, and they ſhall be my people.</hi>
+                                                      </note> bleſſed communion with God the Father, his Son Jeſus Chriſt, and with <note n="(f)" place="margin">1 Cor. 3. 16. <hi>The Spirit of God dwelleth in you, is in you,</hi> 1 Cor. 6. 19. that is, ma<g ref="char:EOLhyphen"/>nifeſts his preſence with you.</note> the Holy Ghoſt.</item>
+                                                   <item>2 In <note n="(g)" place="margin">Epheſ 2. 19 <hi>Fellow-Citizens with the Saints and of the houſhold of God. Ye are no more ſtrangers from the Common-wealth of Iſrael. I am knit to the Lord Jeſus by the Spirit working faith, and to the Saints by love.</hi>
+                                                      </note> communion with the Saints, in be<g ref="char:EOLhyphen"/>ing a member of the Church of Chriſt.</item>
+                                                   <item>3 In <note n="(h)" place="margin">1 Joh. 3 1: <hi>What manner of love the Father hath beſtowed upon us, that we ſhould be called the Sons of God.</hi> Gal 4 5. <hi>That we might receive the adoption of Sons.</hi> Rom. 8. 15. <hi>Ye have received the ſpirit of adoption, whereby we cry Abba, Father.</hi>
+                                                      </note> being the Son or daughter of the living God, through Chriſt, and having the ſpirit of Adoption to call God Fa<g ref="char:EOLhyphen"/>ther.</item>
+                                                   <item>4 In <note n="(i)" place="margin">1 Pet. 1. 8. <hi>In whom,</hi> that is, in Chriſt, <hi>ye rejoyce with joy unſpeakable and full of glory,</hi> Rom 5. 3. <hi>We glory in tribulation,</hi> Joh. 16 33.</note> rejoycing with joy unſpeakable and full of glory, even in the midſt of tribu<g ref="char:EOLhyphen"/>lations.</item>
+                                                </list>
+                                             </item>
+                                             <pb n="20-21" facs="tcp:170651:11"/>
+                                             <item>2 In the life to come, conſiſting
+<list>
+                                                   <item>1 In the e<g ref="char:EOLhyphen"/>ſtate of the ſoule after death.
+<list>
+                                                         <item>1 The <note n="(k)" place="margin">Luk. 16. 22. <hi>The ſoule of the begger was carryed by the Angels into</hi> Abrahams <hi>boſome,</hi> that is, to an eſtate of bleſſedneſſe in heaven. 2 Cor. 5. 1. <hi>Wee have a build<g ref="char:EOLhyphen"/>ing of God, an houſe not made with hands, eternall in the heavens.</hi>
+                                                            </note> ſoule of the Beleever after death, is by the miniſte<g ref="char:EOLhyphen"/>ry of Angels conveyed into <hi>Abrahams</hi> boſom, or Paradiſe.</item>
+                                                         <item>2 The <note n="(l)" place="margin">Eccleſ. 12 7. <hi>Then ſhall the duſt return to the earth as it was, and the Spirit ſhall return unto God who gave it.</hi>
+                                                            </note> body returns to duſt, and remaines in the grave till the Reſurrection at the laſt day.</item>
+                                                      </list>
+                                                   </item>
+                                                   <item>2 In the happy eſtate of the ſoule and body at the laſt day, after the re<g ref="char:EOLhyphen"/>ſurrection.
+<p>At <note n="(m)" place="margin">Jude 14. <hi>The Lord commeth with ten thouſand of his Saints, to execute judge<g ref="char:EOLhyphen"/>ment upon all, &amp;c.</hi> Act. 17. 31. <hi>A day in the which he will judge the world in righte<g ref="char:EOLhyphen"/>ouſneſſe, by that man,</hi> that is, by Jeſus Chriſt, God-Man.</note> the comming of the Lord Jeſus to judge the world, all the dead ſhall <note n="(n)" place="margin">Joh<g ref="char:punc">▪</g> 5. 28, 29. <hi>All that are in the graves ſhall come forth, they that have done good unto the reſurrection of life, they that have done evill, unto the reſurrection of damnation.</hi>
+                                                         </note> bee raiſed, and ſhall <note n="(o)" place="margin">2 Cor. 5. 10. <hi>We muſt all appear before the judgement ſeat of Chriſt, that every one may receive according to that hee hath d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                                                  <desc>•</desc>
+                                                               </gap>ne, &amp;c.</hi>
+                                                         </note> appeare before Jeſus Chriſt to receive accor<g ref="char:EOLhyphen"/>ding to their works.</p>
+                                                      <p>Then <note n="(p)" place="margin">1 Cor. 15. 33. <hi>This corruptible muſt put on incorruption,</hi> that is, the body ſhall be made immortall, Matth. 25. 46. <hi>The righteous ſhall goe into life eternall.</hi>
+                                                         </note> ſhall the ſoule and bo<g ref="char:EOLhyphen"/>dy of every beleever bee fully and everlaſtingly glorified.</p>
+                                                      <list>
+                                                         <item>1 He <note n="(q)" place="margin">Matth. 25. 34. <hi>Inherit the kingdome prepared for you,</hi> that is, the Kingdome of Heaven.</note> ſhall inherit the King<g ref="char:EOLhyphen"/>dome of Heaven.</item>
+                                                         <item>2 Have <note n="(r)" place="margin">1 Theſſe. 4 17. <hi>So ſhall we ever be with the Lord,</hi> that is, Jeſus Chriſt. 1 Joh. 17. 24. <hi>Father I will that they whom thou haſt given me, be with me where I am, that they may behold my glory, &amp;c.</hi> 1 Cor. 15. 28. <hi>That God may be all in all.</hi>
+                                                            </note> ſweet, full, everlaſting communion with God and Chriſt.</item>
+                                                         <item>3 His <note n="(s)" place="margin">1 Cor. 13. 12, <hi>&amp;</hi> 13. <hi>We ſee then,</hi> that is, in heaven, <hi>face to face,</hi> that is, per<g ref="char:EOLhyphen"/>fectly. <hi>Faith, hope, love, the greateſt of theſe is love,</hi> love to God, to the Saints.</note> ſoule ſhall bee indued with perfect knowledge, with the higheſt love.</item>
+                                                         <item>4 His <note n="(t)" place="margin">Phil. 3. 21. <hi>Who ſhall change our vile body, that it may be faſhioned like to his glorious body, &amp;c.</hi> that is, the glorious body of Chriſt.</note> body ſhall bee like the glorious body of Jeſus Chriſt.</item>
+                                                         <item>5 He <note n="(u)" place="margin">Pſal. 16. 11. <hi>In thy preſence is fulneſſe of joy, at thy right hand there are plea<g ref="char:EOLhyphen"/>ſures for evermore.</hi> 2 Tim. 1. 9. <hi>So ſhall Jeſus Chriſt be glorified in his Saints, and admired in all them that doe beleeve.</hi>
+                                                            </note> ſhall have all fulneſſe of joyes for evermore.</item>
+                                                      </list>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </p>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Ja. Cranford.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
